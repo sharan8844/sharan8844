@@ -12,4 +12,4 @@ You can find me on:
 [<img src="lin.png" alt="LinkedIn" width="50"/>](https://www.linkedin.com/in/harsh-sharan/) [<img src="instaa.png" alt="Insta" width="70"/>](https://www.instagram.com/harsh__sharan/) 
 ## Mail me @ [sharanharsh8844@gmail.com]
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=sharan8844&show_icons=true&theme=gruvbox&hide=stars,prs,issues)
+<!-- [Harsh's github stats](https://github-readme-stats.vercel.app/api?username=sharan8844&show_icons=true&theme=gruvbox&hide=stars,prs,issues)
