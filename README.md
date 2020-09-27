@@ -3,7 +3,8 @@
 # HARSH SHARAN
 "Do Not Go Gentle Into That Good Night,<br> 
 _Rage!Rage!_ against the dying of the light"
-___________________________________________________________________________________________________________________________________________________________________**Find me on*:
+___
+Find me on*:
 
 [<img src="lin.png" alt="LinkedIn" width="50"/>](https://www.linkedin.com/in/harsh-sharan/) [<img src="instaa.png" alt="Insta" width="70"/>](https://www.instagram.com/harsh__sharan/) 
 
