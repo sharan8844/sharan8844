@@ -1,3 +1,3 @@
 ![Me](suitUp.jpeg)
 
- Welcome to _*Harsh's*_ github :cowboy_hat_face:
+ # _Welcome to_ *Harsh's* _github_ :cowboy_hat_face:
