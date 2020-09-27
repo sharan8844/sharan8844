@@ -1,7 +1,7 @@
 ![Me](suitUp.jpeg)
 
 # HARSH SHARAN
-"Do Not Go Gentle Into That Good Night, 
+"Do Not Go Gentle Into That Good Night,<br> 
 _Rage!Rage!_ against the dying of the light"
 ____________________________________________________________________________________________________________________________________________________________________
 Find me on:
