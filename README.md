@@ -1,3 +1,3 @@
 ![Me](suitUp.jpeg)
 
-# Harsh Sharan
+# _*Harsh Sharan*_
