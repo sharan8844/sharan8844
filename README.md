@@ -11,7 +11,7 @@ You can find me on [![LinkedIn][1.2]][1].
 
 <!-- Icons -->
 
-[1.2]: lin.png
+[1.2]: lin.png =20x20
 
 <!-- Links to your social media accounts -->
 
