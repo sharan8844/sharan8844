@@ -7,9 +7,7 @@
 
 <!-- Actual text -->
 
-You can find me on 
-
-<img src="lin.png" alt="LinkedIn" width="20"/>
+You can find me on <img src="lin.png" alt="LinkedIn" width="20"/>
 
 <!-- Links to your social media accounts -->
 
