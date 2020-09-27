@@ -1,3 +1,2 @@
-### Hi there! :poop:
-
 ![Me](suitUp.jpeg)
+Harsh Sharan
