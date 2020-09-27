@@ -6,7 +6,7 @@ _Rage!Rage!_ against the dying of the light"
 ___
 __Find me on:__
 
-[<img src="lin.png" alt="LinkedIn" width="50"/>](https://www.linkedin.com/in/harsh-sharan/) [<img src="instaa.png" alt="Insta" width="70"/>](https://www.instagram.com/harsh__sharan/) 
+[<img src="lin.png" alt="LinkedIn" width="50"/>](https://www.linkedin.com/in/harsh-sharan/) [<img src="instaa.png" alt="Insta" width="70"/>](https://www.instagram.com/harsh__sharan/) [<img src="ggmail.png" alt="Mail" width="50"/>](sharanharsh8844@gmail.com)
 
 ## Mail me @ [sharanharsh8844@gmail.com]
 
