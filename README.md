@@ -7,11 +7,9 @@
 
 <!-- Actual text -->
 
-You can find me on [![LinkedIn][1.2]][1].
+You can find me on 
 
-<!-- Icons -->
-
-[1.2]: lin.png =20x20
+<img src="lin.png" alt="LinkedIn" width="20"/>
 
 <!-- Links to your social media accounts -->
 
