@@ -1,7 +1,7 @@
 ![Me](suitUp.jpeg)
 
 # HARSH SHARAN
-"_Motivated techie born to make a difference_<br> 
+"_Motivated techie born to make a difference_"<br> 
 ___
 __Find me on:__
 
