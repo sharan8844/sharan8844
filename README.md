@@ -1,8 +1,7 @@
 ![Me](suitUp.jpeg)
 
 # HARSH SHARAN
-"_Do not go gentle into that good night,_<br> 
-Rage!Rage! _against the dying of the light_"
+"_Motivated techie born to make a difference_<br> 
 ___
 __Find me on:__
 
